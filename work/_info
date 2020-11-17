@@ -1,0 +1,267 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Econtador
+Z0 w1605622400
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 30
+Z4 dC:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto
+Z5 8C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/contador.vhd
+Z6 FC:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/contador.vhd
+l0
+L5 1
+VF4C>19EXSH[j`RV1QN_oO0
+!s100 j^1QkAb>OW:]BA?@IB;7K1
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1605623221
+!i10b 1
+Z9 !s108 1605623221.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/contador.vhd|
+Z11 !s107 C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/contador.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+Z14 DEx4 work 8 contador 0 22 F4C>19EXSH[j`RV1QN_oO0
+!i122 30
+l13
+L11 19
+Ve_Ph9_Df`4cec[QGA1?Z;2
+!s100 hF]oGV=eYQoPAjW1RPA@82
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtador_tb
+Z15 w1605624854
+R1
+R2
+R3
+!i122 36
+R4
+Z16 8C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/contador_tb.vhd
+Z17 FC:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/contador_tb.vhd
+l0
+L6 1
+VW`UC=C@BJF_>N^UZ^dLoN1
+!s100 >5h61k`P@OhRfZ?KA:BTX3
+R7
+32
+Z18 !s110 1605624858
+!i10b 1
+Z19 !s108 1605624858.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/contador_tb.vhd|
+Z21 !s107 C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/contador_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R14
+R1
+R2
+R3
+DEx4 work 11 contador_tb 0 22 W`UC=C@BJF_>N^UZ^dLoN1
+!i122 36
+l16
+L10 29
+V;7ECVA4McL850V0]E=53H2
+!s100 >m=?<XjQAFVj`iPOID4;j0
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
+Emultiplexer
+Z22 w1605617860
+R2
+R3
+!i122 3
+R4
+Z23 8C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/multiplexer.vhd
+Z24 FC:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/multiplexer.vhd
+l0
+L4 1
+VC86BZ8MYN]aLihBZ<G@A62
+!s100 FCd9HzB_hPd_D]6YVO[z22
+R7
+32
+Z25 !s110 1605617896
+!i10b 1
+Z26 !s108 1605617896.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/multiplexer.vhd|
+Z28 !s107 C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/multiplexer.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 11 multiplexer 0 22 C86BZ8MYN]aLihBZ<G@A62
+!i122 3
+l11
+L10 10
+V5jKRA[zL87BJLeNf^?;980
+!s100 g9bgTW_Klo1RjC9iDL_B50
+R7
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R12
+R13
+Ereg_8
+Z29 w1605634939
+R1
+R2
+R3
+!i122 41
+R4
+Z30 8C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/reg_8.vhd
+Z31 FC:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/reg_8.vhd
+l0
+L5 1
+VR6=DFzDI1TM9U@@i5aRF]0
+!s100 bWHA023Ifa`0dUD1[PKiP3
+R7
+32
+Z32 !s110 1605634950
+!i10b 1
+Z33 !s108 1605634950.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/reg_8.vhd|
+Z35 !s107 C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/reg_8.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+Z36 DEx4 work 5 reg_8 0 22 R6=DFzDI1TM9U@@i5aRF]0
+!i122 41
+l14
+Z37 L12 15
+VFXNXWR<0gB2^A5ab18C7T3
+!s100 KN^D=gZIC;45P3YAmbFP22
+R7
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R12
+R13
+Ereg_8_tb
+Z38 w1605634652
+R1
+R2
+R3
+!i122 40
+R4
+Z39 8C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/reg_8_tb.vhd
+Z40 FC:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/reg_8_tb.vhd
+l0
+L7 1
+VTQ0C6Nn^OO>9^KMToC1A^0
+!s100 dEiNDL[_Zl?U5<`z]eK4@3
+R7
+32
+Z41 !s110 1605634656
+!i10b 1
+Z42 !s108 1605634656.000000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/reg_8_tb.vhd|
+Z44 !s107 C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/reg_8_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R36
+R1
+R2
+R3
+DEx4 work 8 reg_8_tb 0 22 TQ0C6Nn^OO>9^KMToC1A^0
+!i122 40
+l18
+L11 31
+V693Ld[<?A]cfj_6Ak?Chh2
+!s100 kVb7CAYG?C:BM?NX1DLNn2
+R7
+32
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R12
+R13
+Esomadorcompleto
+Z45 w1605617074
+R2
+R3
+!i122 0
+R4
+Z46 8C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/somadorCompleto.vhd
+Z47 FC:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/somadorCompleto.vhd
+l0
+L4 1
+VJ^>NBd8_CTlInMX`00;n?1
+!s100 `fQ;FTFCzjKc68]d^C_aG2
+R7
+32
+Z48 !s110 1605617109
+!i10b 1
+Z49 !s108 1605617108.000000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/somadorCompleto.vhd|
+Z51 !s107 C:/Users/elvim/OneDrive/uepg/disciplinas/2020/ER04 - VHDL - comportamental/somadorCompleto/somadorCompleto.vhd|
+!i113 1
+R12
+R13
+Alogica
+R2
+R3
+DEx4 work 15 somadorcompleto 0 22 J^>NBd8_CTlInMX`00;n?1
+!i122 0
+l10
+L9 6
+VfM<CZe^H4S84zcFlBX?[I1
+!s100 @L:6id98ZDWocVQ0;U0iD0
+R7
+32
+R48
+!i10b 1
+R49
+R50
+R51
+!i113 1
+R12
+R13
